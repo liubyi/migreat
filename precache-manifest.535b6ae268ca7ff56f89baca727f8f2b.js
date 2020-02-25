@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b556d6964b501f6f035203ea9519c09",
+    "revision": "26fb5d529519c9b1a9a3bb8e1b1fb3fc",
     "url": "/migreat/index.html"
   },
   {
-    "revision": "ee59e044c8801fe1bbcf",
-    "url": "/migreat/static/css/main.8c1ab618.chunk.css"
+    "revision": "b2e527f15ea83a3cc5ab",
+    "url": "/migreat/static/css/main.5313e796.chunk.css"
   },
   {
     "revision": "a238923dbdd30bb76724",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/migreat/static/js/2.43e603c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee59e044c8801fe1bbcf",
-    "url": "/migreat/static/js/main.130c6ca2.chunk.js"
+    "revision": "b2e527f15ea83a3cc5ab",
+    "url": "/migreat/static/js/main.3cfb7403.chunk.js"
   },
   {
     "revision": "3e27feeffdeb649117a5",

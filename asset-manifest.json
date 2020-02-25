@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/migreat/static/css/main.8c1ab618.chunk.css",
-    "main.js": "/migreat/static/js/main.130c6ca2.chunk.js",
-    "main.js.map": "/migreat/static/js/main.130c6ca2.chunk.js.map",
+    "main.css": "/migreat/static/css/main.5313e796.chunk.css",
+    "main.js": "/migreat/static/js/main.3cfb7403.chunk.js",
+    "main.js.map": "/migreat/static/js/main.3cfb7403.chunk.js.map",
     "runtime-main.js": "/migreat/static/js/runtime-main.d4362a75.js",
     "runtime-main.js.map": "/migreat/static/js/runtime-main.d4362a75.js.map",
     "static/js/2.43e603c6.chunk.js": "/migreat/static/js/2.43e603c6.chunk.js",
     "static/js/2.43e603c6.chunk.js.map": "/migreat/static/js/2.43e603c6.chunk.js.map",
     "index.html": "/migreat/index.html",
-    "precache-manifest.bdc46bd21ff4c32d8e153498005f37d3.js": "/migreat/precache-manifest.bdc46bd21ff4c32d8e153498005f37d3.js",
+    "precache-manifest.535b6ae268ca7ff56f89baca727f8f2b.js": "/migreat/precache-manifest.535b6ae268ca7ff56f89baca727f8f2b.js",
     "service-worker.js": "/migreat/service-worker.js",
-    "static/css/main.8c1ab618.chunk.css.map": "/migreat/static/css/main.8c1ab618.chunk.css.map",
+    "static/css/main.5313e796.chunk.css.map": "/migreat/static/css/main.5313e796.chunk.css.map",
     "static/js/2.43e603c6.chunk.js.LICENSE.txt": "/migreat/static/js/2.43e603c6.chunk.js.LICENSE.txt",
     "static/media/anon.png": "/migreat/static/media/anon.d72b2e5b.png",
     "static/media/birds.png": "/migreat/static/media/birds.362233f1.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.d4362a75.js",
     "static/js/2.43e603c6.chunk.js",
-    "static/css/main.8c1ab618.chunk.css",
-    "static/js/main.130c6ca2.chunk.js"
+    "static/css/main.5313e796.chunk.css",
+    "static/js/main.3cfb7403.chunk.js"
   ]
 }
