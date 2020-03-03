@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15d9362e785f48729e11639c232051a7",
+    "revision": "2810f4d46a841bad0fac265879d2431d",
     "url": "/migreat/index.html"
   },
   {
-    "revision": "a67d76cc6989f739c878",
+    "revision": "0f02dfb4c3eba5e564c8",
     "url": "/migreat/static/css/main.9d9d7f31.chunk.css"
   },
   {
-    "revision": "a238923dbdd30bb76724",
-    "url": "/migreat/static/js/2.43e603c6.chunk.js"
+    "revision": "0b13cd27b97301e96f8b",
+    "url": "/migreat/static/js/2.7581a8e4.chunk.js"
   },
   {
     "revision": "2f0ee2faf55c5eb9ea9267046a5519af",
-    "url": "/migreat/static/js/2.43e603c6.chunk.js.LICENSE.txt"
+    "url": "/migreat/static/js/2.7581a8e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a67d76cc6989f739c878",
-    "url": "/migreat/static/js/main.a9b6f642.chunk.js"
+    "revision": "0f02dfb4c3eba5e564c8",
+    "url": "/migreat/static/js/main.e8880e18.chunk.js"
   },
   {
     "revision": "3e27feeffdeb649117a5",
