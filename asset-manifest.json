@@ -1,18 +1,23 @@
 {
   "files": {
     "main.css": "/migreat/static/css/main.9d9d7f31.chunk.css",
-    "main.js": "/migreat/static/js/main.fdf8d08f.chunk.js",
-    "main.js.map": "/migreat/static/js/main.fdf8d08f.chunk.js.map",
+    "main.js": "/migreat/static/js/main.4e50d27f.chunk.js",
+    "main.js.map": "/migreat/static/js/main.4e50d27f.chunk.js.map",
     "runtime-main.js": "/migreat/static/js/runtime-main.d4362a75.js",
     "runtime-main.js.map": "/migreat/static/js/runtime-main.d4362a75.js.map",
-    "static/js/2.37991451.chunk.js": "/migreat/static/js/2.37991451.chunk.js",
-    "static/js/2.37991451.chunk.js.map": "/migreat/static/js/2.37991451.chunk.js.map",
+    "static/js/2.2531b7a1.chunk.js": "/migreat/static/js/2.2531b7a1.chunk.js",
+    "static/js/2.2531b7a1.chunk.js.map": "/migreat/static/js/2.2531b7a1.chunk.js.map",
     "index.html": "/migreat/index.html",
-    "precache-manifest.5c6bd7052a0bd9b9ddcdcf776badb546.js": "/migreat/precache-manifest.5c6bd7052a0bd9b9ddcdcf776badb546.js",
+    "precache-manifest.d668cfdf552ef2fbe0e22b842c2c9f1a.js": "/migreat/precache-manifest.d668cfdf552ef2fbe0e22b842c2c9f1a.js",
     "service-worker.js": "/migreat/service-worker.js",
     "static/css/main.9d9d7f31.chunk.css.map": "/migreat/static/css/main.9d9d7f31.chunk.css.map",
-    "static/js/2.37991451.chunk.js.LICENSE.txt": "/migreat/static/js/2.37991451.chunk.js.LICENSE.txt",
+    "static/js/2.2531b7a1.chunk.js.LICENSE.txt": "/migreat/static/js/2.2531b7a1.chunk.js.LICENSE.txt",
     "static/media/anon.png": "/migreat/static/media/anon.d72b2e5b.png",
+    "static/media/area1.jpg": "/migreat/static/media/area1.a04231e3.jpg",
+    "static/media/area2.jpg": "/migreat/static/media/area2.a3a21c44.jpg",
+    "static/media/area3.jpg": "/migreat/static/media/area3.1bb5cba0.jpg",
+    "static/media/area4.jpg": "/migreat/static/media/area4.f154eb31.jpg",
+    "static/media/area5.png": "/migreat/static/media/area5.acba4c2b.png",
     "static/media/birds.png": "/migreat/static/media/birds.362233f1.png",
     "static/media/james1.jpg": "/migreat/static/media/james1.183addf0.jpg",
     "static/media/james2.jpg": "/migreat/static/media/james2.50504f5b.jpg",
@@ -38,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d4362a75.js",
-    "static/js/2.37991451.chunk.js",
+    "static/js/2.2531b7a1.chunk.js",
     "static/css/main.9d9d7f31.chunk.css",
-    "static/js/main.fdf8d08f.chunk.js"
+    "static/js/main.4e50d27f.chunk.js"
   ]
 }
